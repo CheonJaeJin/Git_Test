@@ -38,7 +38,7 @@ Git test & Bash connection and usage
 <br/>
 <br/>
 
-6. 로컬 리포지토리 설정. <br/>
+6. 로컬 리포지토리 설정 확인하기. <br/>
 ![6](https://github.com/CheonJaeJin/Git_Test/assets/121233482/4031d1d2-82c0-4a80-9ecf-3b63f3b56f7b)
 <br/>
 <br/>
