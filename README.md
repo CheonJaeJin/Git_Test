@@ -89,6 +89,25 @@ Git test & Bash connection and usage
 <br/>
 <br/>
 
+<div align="center">
+
+### 🌲 No. 3(gitignore)<br/>
+<div align="left">
+  
+![image](https://github.com/CheonJaeJin/Git_Test/assets/121233482/94a6ff19-bc7b-47a8-9880-53cabfb4697f)
+<br/>
+1. .gitignore 파일을 사용해서 배제할 요소를 지정
+<br/>
+<br/>
+
+
+
+<br/>
+<br/>
+
+
+
+
 
 
 <br/>
