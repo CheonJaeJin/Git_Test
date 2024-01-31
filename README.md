@@ -73,5 +73,20 @@ Git test & Bash connection and usage
 ### 🌲 No. 2<br/>
 <div align="left">
 
+![image](https://github.com/CheonJaeJin/Git_Test/assets/121233482/5354e937-43d1-4381-a42b-c477b237c507)
+1. cd GitTest             : "GitTest" 폴더로 이동해달라<br/>
+2. ls                     : 현재 폴더에 있는 폴더와 파일들을 보여달라<br/>
+3. git add Tiger.cpp      : add 과정<br/>
+<br/>
+<br/>
 
+![image](https://github.com/CheonJaeJin/Git_Test/assets/121233482/51be50db-720e-4182-aa35-575a8732f41a)
+4. git commit -m ""       : commit 과정<br/>
+5. git push               : push 과정<br/>
+
+
+
+
+<br/>
+<br/>
   </div><br>
